@@ -10,9 +10,10 @@
 
 ## 🚀 About Me
 
-Hey there! My name is Christian and I am currently pursuing my bachelors in Computer Science at UCA.
+Hey there! My name is Christian and I am currently pursuing my bachelors in Computer Science at UCA. My wife an I are expecting our first child in 2027.
+Jesus Christ is Lord.
 
-- 🏢 Working at **Service Desk Technician** in **Conway Arkansas**
+- 🏢 Working as a **Service Desk Technician** in **Conway Arkansas**
 - 🌱 Currently learning **Data Structures**
 - 💬 Ask me about **My collection of Mac computers**
 
@@ -24,7 +25,6 @@ Hey there! My name is Christian and I am currently pursuing my bachelors in Comp
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=daemon-c&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=daemon-c&theme=github-dark-blue&hide_border=true&background=0d1117)](https://git.io/streak-stats)
 
