@@ -4,7 +4,7 @@
 
 # Hey, I'm Christian Valdez!
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?font=Cascadia+Code&weight=500&color=71F2F7&lines=Computer+Science+Student;Learning+Data+Structures;Open+Source+Advocate)
+<img src="https://readme-typing-svg.demolab.com/?font=Cascadia+Code&weight=500&color=71F2F7&center=true&width=450&lines=Computer+Science+Student;Learning+Data+Structures;Open+Source+Advocate" alt="Typing SVG">
 
 </div>
 
