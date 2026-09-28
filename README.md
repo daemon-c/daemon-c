@@ -4,7 +4,7 @@
 
 # Hey, I'm Christian Valdez!
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Computer%20Science%20Student;Data%20Structures;Based%20in%20Conway%20Arkansas)](https://git.io/typing-svg)
+[![Typing SVG]([https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Computer%20Science%20Student;Data%20Structures;Based%20in%20Conway%20Arkansas)](https://git.io/typing-svg](https://readme-typing-svg.demolab.com/demo/?font=Cascadia+Code&weight=500&color=71F2F7&lines=Computer+Science+Student;Learning+Data+Structures;Open+Source+Advocate))
 
 </div>
 
